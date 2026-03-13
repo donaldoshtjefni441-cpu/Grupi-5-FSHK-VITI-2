@@ -1,0 +1,25 @@
+# Grupi-5-FSHK-VITI-2
+# Projekti: Modelime në Fizikë - Detyra 0
+
+Ky projekt është realizuar si pjesë e kursit "Modelime në Fizikë" për të demonstruar bazat e programimit shkencor me Python, përdorimin e bibliotekës NumPy dhe organizimin e punës në GitHub.
+
+## Anëtarët e Grupit
+* *Donaldo Shtjefni 1*
+* *Erik CUPI 2*
+* *Klaus Dragjoshi 3*
+
+
+## Qëllimi i Projektit
+Qëllimi i këtij mini-projekti është llogaritja numerike e funksioneve matematikore (derivatit, integralit dhe normës) si dhe vizualizimi i tyre në mënyrë të stilizuar për të krijuar një "identitet grafik" për grupin tonë.
+
+## Funksioni i Përdorur
+Në këtë projekt kemi përzgjedhur funksionin determinist:
+$$f(t) = \cos(t) + 0.3 \sin(5t)$$
+i cili kombinon një valë bazë me një harmonikë më të lartë.
+
+## Udhëzime për Ekzekutimin
+Për të ekzekutuar kodin, sigurohuni që keni të instaluara libraritë numpy dhe matplotlib. 
+
+Ekzekutoni komandën e mëposhtme nga terminali:
+```bash
+python src/main.py
